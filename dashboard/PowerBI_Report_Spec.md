@@ -137,3 +137,11 @@ Provide executives with real-time KPIs and trends on waste collection operations
 
 - Avg Pickup Frequency (days)
 
+**2️⃣ Fill Level Trend (Line Chart)**
+
+- X-axis: timestamp
+
+- Y-axis: Avg fill level
+
+- Legend: zone (optional)
+
