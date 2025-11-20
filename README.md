@@ -271,5 +271,5 @@ Execute files in order:
 
 ## 📬 Contact
 
-If you want a **ZIP folder, SQL scripts, PowerBI theme, or end-to-end dataset**, just say:
+If you want a **ZIP folder, SQL scripts, PowerBI theme, or end-to-end dataset**, just say:<br />
 👉 "**Generate full project ZIP**"
