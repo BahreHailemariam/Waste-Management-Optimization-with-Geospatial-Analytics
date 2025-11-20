@@ -56,3 +56,53 @@ Waste_Management_Optimization/
 ├── requirements.txt
 └── README.md
 ```
+
+## 🔧 Technologies Used
+**Programming & Analysis**
+
+- Python (pandas, numpy, geopandas, scikit-learn, XGBoost)
+
+- SQL (PostgreSQL + PostGIS recommended)
+
+- Jupyter Notebooks
+
+- Streamlit (route viewer)
+
+**Geospatial & Routing**
+
+- GeoPandas
+
+- Folium / Kepler.gl
+
+- OSRM, OR-Tools (Vehicle Routing Problems)
+
+- Haversine distance metrics
+
+- Spatial clustering (K-Means, DBSCAN, HDBSCAN)
+
+**Visualization**
+
+- Power BI
+
+- Matplotlib / Seaborn
+
+- Interactive geospatial maps
+
+**ML Forecasting**
+
+- Prophet
+
+- XGBoost
+
+- LightGBM
+
+## 🧹 Data Sources & Expected Inputs
+
+- **IoT bin sensors:** fill level %, temperature, pickup timestamps
+
+- **GPS truck logs:** longitude, latitude, route path, idle time
+
+- **GIS shape files:** zones, districts, street network
+
+- **Operational data:** bin location, schedule, vehicle capacity
+
