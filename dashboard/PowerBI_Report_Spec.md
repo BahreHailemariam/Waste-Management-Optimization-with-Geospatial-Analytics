@@ -157,3 +157,19 @@ Buckets:
 
 - 80–100% (overflow risk)
 
+**4️⃣ Top 10 Critical Bins (Table)**
+
+Columns:
+
+- bin_id
+
+- zone
+
+- last_fill_level
+
+- last_pickup_date
+
+- predicted_fill (optional)
+
+
+
