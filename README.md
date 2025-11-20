@@ -106,3 +106,64 @@ Waste_Management_Optimization/
 
 - **Operational data:** bin location, schedule, vehicle capacity
 
+## 🔄 Workflow Summary
+**1. Data Ingestion**
+
+- Load IoT sensor CSVs
+
+- Import GIS files (GeoJSON, shapefiles)
+
+- Read truck GPS logs
+
+- Store raw data into SQL warehouse
+
+**2. Data Cleaning & Preprocessing**
+
+- Fix missing GPS coordinates
+
+- Normalize timestamps
+
+- Remove outliers (e.g., fill % > 100%)
+
+- Standardize coordinate reference systems (CRS)
+
+**3. Geospatial Feature Engineering**
+
+- Compute Haversine distances
+
+- Map bins to collection zones
+
+- Compute collection density per zone
+
+- Apply clustering to group nearby bins
+
+**4. Route Optimization**
+
+- Solve shortest-path (Dijkstra, A*)
+
+- Build TSP / VRP models using OR-Tools
+
+- Recommend fuel-efficient route ordering
+
+**5. Fill Level Forecasting**
+
+- Train ML model based on historical sensor data
+
+- Predict future fill levels
+
+- Recommend pickup schedules
+
+**6. KPI Dashboard & Decision Layer**
+
+Power BI shows:
+
+- Fuel savings
+
+- Waste tonnage trends
+
+- Collection frequency heatmaps
+
+- Route efficiency metrics
+
+- Forecasted vs actual fill levels
+
