@@ -213,3 +213,20 @@ Power BI shows:
 
 - Savings from optimized routing
 
+## 🤖 Machine Learning Models
+**Models trained:**
+
+- **XGBoost Regressor** → Fill level prediction
+
+- **K-Means/DBSCAN** → Spatial clustering
+
+- **Prophet** → Seasonal waste generation forecasting
+
+**Model outputs:**
+
+- Next pickup day per bin
+
+- Future fill level (%)
+
+- Recommended vehicle capacity allocation
+
