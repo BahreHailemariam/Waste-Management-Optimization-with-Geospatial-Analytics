@@ -145,3 +145,15 @@ Provide executives with real-time KPIs and trends on waste collection operations
 
 - Legend: zone (optional)
 
+**3️⃣ Bin Capacity Utilization (Donut Chart)**
+
+Buckets:
+
+- 0–30%
+
+- 30–60%
+
+- 60–80%
+
+- 80–100% (overflow risk)
+
