@@ -118,4 +118,22 @@ The report contains **five pages:**
 
 - KPIs: Segoe UI Semibold 24–32 pt
 
+## 📄 4. Page-by-Page Specifications
+## 4.1 Page 1 — Operational Overview
+### 🎯 Purpose
+
+Provide executives with real-time KPIs and trends on waste collection operations.
+
+### 📊 Required Visuals
+**1️⃣ KPI Cards**
+
+- Total Bins
+
+- Average Fill Level (%)
+
+- Number of Overflow Alerts
+
+- Daily Tonnes Collected
+
+- Avg Pickup Frequency (days)
 
