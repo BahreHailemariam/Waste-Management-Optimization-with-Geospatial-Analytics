@@ -167,3 +167,49 @@ Power BI shows:
 
 - Forecasted vs actual fill levels
 
+## 📈 Power BI Dashboard Preview
+
+### Pages Included:
+
+**1️⃣ Operational Overview**
+
+- Total waste collected
+
+- Avg fill level by zone
+
+- Route distance trends
+
+- Truck utilization score
+
+**2️⃣ Geospatial Insights**
+
+- Waste density heatmap
+
+- Collection frequency choropleth
+
+- Clustered bin groups
+
+**3️⃣ Route Optimization**
+
+- Baseline vs optimized route comparison
+
+- Estimated cost & fuel reduction
+
+- Route deviation map
+
+**4️⃣ Container Fill Forecasting**
+
+- Predicted fill levels (next 7 days)
+
+- Overfilled vs underutilized bins
+
+- Seasonal patterns
+
+**5️⃣ Cost Optimization & Sustainability**
+
+- CO₂ emission estimates
+
+- Cost per route
+
+- Savings from optimized routing
+
