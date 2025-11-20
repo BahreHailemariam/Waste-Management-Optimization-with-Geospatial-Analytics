@@ -259,11 +259,17 @@ python scripts/fill_level_forecasting.py
 streamlit run scripts/app.py
 ```
 **4. Load SQL schema**
-```pgsql
+
 Execute files in order:
+```pgsql
 01_create_tables.sql
 02_cleaning.sql
 03_geospatial_features.sql
 04_kpi_metrics.sql
 05_views_for_powerbi.sql
 ```
+
+## 📬 Contact
+
+If you want a **ZIP folder, SQL scripts, PowerBI theme, or end-to-end dataset**, just say:
+👉 "**Generate full project ZIP**"
