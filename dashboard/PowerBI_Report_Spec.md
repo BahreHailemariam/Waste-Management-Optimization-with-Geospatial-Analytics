@@ -171,5 +171,11 @@ Columns:
 
 - predicted_fill (optional)
 
+**5️⃣ Truck Activity Summary**
 
+- Bar chart: Avg speed per truck
+
+- Line chart: Distance traveled per day
+
+- KPI: Total idle time
 
