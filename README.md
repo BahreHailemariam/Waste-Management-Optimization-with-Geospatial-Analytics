@@ -230,3 +230,40 @@ Power BI shows:
 
 - Recommended vehicle capacity allocation
 
+## 💡 Key Insights Deliverables
+
+- Bins with highest overflow risk
+
+- Inefficient routes costing time/fuel
+
+- Recommended daily/weekly schedules
+
+- Zone-level waste generation patterns
+
+- Suggested fleet size adjustments
+
+## 🚀 How to Run the Project
+**1. Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+**2. Run data pipeline**
+```bash
+python scripts/load_data.py
+python scripts/clean_data.py
+python scripts/geospatial_analysis.py
+python scripts/fill_level_forecasting.py
+```
+**3. Start Streamlit viewer**
+```bash
+streamlit run scripts/app.py
+```
+**4. Load SQL schema**
+```pgsql
+Execute files in order:
+01_create_tables.sql
+02_cleaning.sql
+03_geospatial_features.sql
+04_kpi_metrics.sql
+05_views_for_powerbi.sql
+```
